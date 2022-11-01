@@ -5,5 +5,4 @@
 @section('content')
     
 
-{{route('sdsd')}}
 @endsection
