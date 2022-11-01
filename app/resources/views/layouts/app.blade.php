@@ -24,6 +24,7 @@
     <script src="{{asset('/asset/js/charts/gd-analytics.js?ver=2.2.0 ')}}"></script>
     <script src="{{asset('/asset/js/libs/jqvmap.js?ver=2.2.0 ')}}"></script>
     @yield('scripts')
+    
 </body>
 
 </html>
