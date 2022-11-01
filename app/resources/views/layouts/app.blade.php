@@ -17,9 +17,7 @@
 
 @include('partials.navbar')
 @include('partials.sidebar')
-
 @yield('content')
-
  <script src="{{asset('/asset/js/bundle.js?ver=2.2.0 ')}}"></script>
     <script src="{{asset('/asset/js/scripts.js?ver=2.2.0 ')}}"></script>
     <script src="{{asset('/asset/js/charts/chart-crypto.js?ver=2.2.0')}}"></script>
